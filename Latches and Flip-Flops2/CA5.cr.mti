@@ -1,0 +1,89 @@
+C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module finalmachineTB
+
+Top level modules:
+	finalmachineTB
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ctrlD2
+
+Top level modules:
+	ctrlD2
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Endecoderverilog
+
+Top level modules:
+	Endecoderverilog
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Finalfile
+-- Compiling module hard_block
+
+Top level modules:
+	Finalfile
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module detector
+-- Compiling module hard_block
+
+Top level modules:
+	detector
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module detector_TB2
+
+Top level modules:
+	detector_TB2
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A2.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module detector
+
+Top level modules:
+	detector
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module upcounter
+-- Compiling module hard_block
+
+Top level modules:
+	upcounter
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterC_TB
+
+Top level modules:
+	counterC_TB
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module detector_TB
+
+Top level modules:
+	detector_TB
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module downcounter
+-- Compiling module hard_block
+
+Top level modules:
+	downcounter
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_TB3
+
+Top level modules:
+	counter_TB3
+
+} {} {}}

@@ -1,0 +1,77 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Co",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qo[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "arst",
+					"strict" : false
+				},
+				{
+					"name" : "sset",
+					"strict" : false
+				},
+				{
+					"name" : "en",
+					"strict" : false
+				},
+				{
+					"name" : "shiftin",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

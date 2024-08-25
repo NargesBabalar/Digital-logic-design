@@ -1,0 +1,343 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ASUS/OneDrive/Desktop/CA5
+vcounter_TB3
+Z0 !s110 1704243831
+!i10b 1
+!s100 1N:jRg?T4zCOSJh`4zEcn2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICWUKXUm6hBR=eEc^>;01E2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ASUS/OneDrive/Desktop/Computerassignment5
+w1704212566
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v
+!i122 247
+L0 2 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1704243831.000000
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/B2_TB2.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+ncounter_@t@b3
+vcounterC_TB
+R0
+!i10b 1
+!s100 L1^Z9FmB=LWhBe10d<J7M1
+R1
+I=jD`COcOHX`BZX_M9<6653
+R2
+R3
+w1704213349
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v
+!i122 249
+L0 2 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/C2_TB3.v|
+!i113 1
+R6
+R7
+ncounter@c_@t@b
+vctrlD2
+R0
+!i10b 1
+!s100 0JQM6;G1^gL<z^G8fbkDh0
+R1
+I9oLj3^RP]?KbXEFELFFl=0
+R2
+R3
+w1704238817
+Z8 8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v
+Z9 FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v
+!i122 252
+Z10 L0 2 23
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_controller.v|
+!i113 1
+R6
+R7
+nctrl@d2
+vctrlerD
+!s110 1704225998
+!i10b 1
+!s100 7X9eag`cVI1i;X6><>N:e1
+R1
+ImgX]>iUEki_c0iKOQmi:m1
+R2
+R3
+w1704225102
+R8
+R9
+!i122 116
+R10
+R4
+r1
+!s85 0
+31
+!s108 1704225998.000000
+R11
+R12
+!i113 1
+R6
+R7
+nctrler@d
+vdetector
+R0
+!i10b 1
+!s100 <[N1=mh1koYY=X@<TNoS33
+R1
+I_aAk[^aTckogc5XK4OUKh3
+R2
+R3
+w1704210459
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo
+!i122 245
+L0 32 383
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/detector.vo|
+!i113 1
+R6
+R7
+vdetector_TB
+R0
+!i10b 1
+!s100 lI6XW@[z:>OJNZB84=2g^0
+R1
+IS4H<Fm27@0CefDDI`Rb;k1
+R2
+R3
+w1704210378
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v
+!i122 244
+L0 2 13
+R4
+r1
+!s85 0
+31
+!s108 1704243830.000000
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A1_TB.v|
+!i113 1
+R6
+R7
+ndetector_@t@b
+vdetector_TB2
+R0
+!i10b 1
+!s100 XkTz`fdAmz`i=7jBeajFJ0
+R1
+IgnMJP_9nO^fa0JAJmXIL;2
+R2
+R3
+w1704210575
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v
+!i122 246
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/A3Q_TB.v|
+!i113 1
+R6
+R7
+ndetector_@t@b2
+vdetectorD
+!s110 1704213608
+!i10b 1
+!s100 4YoaZWeJkA>J3hcKICFn92
+R1
+II6a^]He?G4hEjmmFJ7PL^3
+R2
+R3
+w1704213599
+Z13 8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v
+Z14 FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v
+!i122 28
+Z15 L0 2 25
+R4
+r1
+!s85 0
+31
+!s108 1704213608.000000
+Z16 !s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D_endetector.v|
+!i113 1
+R6
+R7
+ndetector@d
+vdowncounter
+R0
+!i10b 1
+!s100 B8]k46_;R`YOWQjBVIM8L1
+R1
+IdC>Ego^@hjnHVaVSeOLP81
+R2
+R3
+w1704213157
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo
+!i122 250
+L0 32 372
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/downcounter.vo|
+!i113 1
+R6
+R7
+vEndecoderverilog
+R0
+!i10b 1
+!s100 A:U:TcDhd@2DWjzc6<WAM1
+R1
+I8W]j7hdS94^VFWMZ9Rz4:0
+R2
+R3
+w1704214064
+R13
+R14
+!i122 251
+R15
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+n@endecoderverilog
+vFinalfile
+R0
+!i10b 1
+!s100 VXNRm`AMHHd;@SX:BN=662
+R1
+I8^JWWkG1mfeB:HIh>G__d3
+R2
+R3
+Z18 w1704240669
+Z19 8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo
+Z20 FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo
+!i122 254
+L0 32 1464
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo|
+!i113 1
+R6
+R7
+n@finalfile
+vfinalmachineTB
+R0
+!i10b 1
+!s100 m<Bc_@Xj0`kzAk_I19IW12
+R1
+I``RzhUcffLagK>1V0eWNM1
+R2
+R3
+w1704241445
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v
+!i122 253
+L0 2 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/D2_TB4.v|
+!i113 1
+R6
+R7
+nfinalmachine@t@b
+vhard_block
+R0
+!i10b 1
+!s100 CZ]0B6oBZE[IX4d9;NIgM2
+R1
+I9Z[@dRafB8MNPL8PK;<DG1
+R2
+R3
+R18
+R19
+R20
+!i122 254
+L0 1497 34
+R4
+r1
+!s85 0
+31
+R5
+Z22 !s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/Finalfile.vo|
+R21
+!i113 1
+R6
+R7
+vupcounter
+R0
+!i10b 1
+!s100 abKUS>EPS;8l>8P4<k9Uj0
+R1
+IR5=0JYEJlW1cVKUfF>_KM2
+R2
+R3
+w1704211789
+8C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo
+FC:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo
+!i122 248
+L0 32 807
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/Computerassignment5/upcounter.vo|
+!i113 1
+R6
+R7

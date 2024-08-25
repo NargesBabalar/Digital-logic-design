@@ -1,0 +1,21 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "serout",
+					"strict" : false
+				},
+				{
+					"name" : "serin",
+					"strict" : false
+				},
+				{
+					"name" : "en",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

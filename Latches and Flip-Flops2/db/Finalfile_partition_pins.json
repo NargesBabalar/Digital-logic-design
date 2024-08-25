@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "serout",
+					"strict" : false
+				},
+				{
+					"name" : "out_valid",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "register[7]",
+					"strict" : false
+				},
+				{
+					"name" : "register[6]",
+					"strict" : false
+				},
+				{
+					"name" : "register[5]",
+					"strict" : false
+				},
+				{
+					"name" : "register[4]",
+					"strict" : false
+				},
+				{
+					"name" : "register[3]",
+					"strict" : false
+				},
+				{
+					"name" : "register[2]",
+					"strict" : false
+				},
+				{
+					"name" : "register[1]",
+					"strict" : false
+				},
+				{
+					"name" : "register[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "serin",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

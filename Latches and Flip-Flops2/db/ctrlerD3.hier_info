@@ -1,0 +1,23 @@
+|ctrlerD3
+clk => ps~1.DATAIN
+rst => ps~3.DATAIN
+start => Selector1.IN2
+start => Selector0.IN1
+start => Selector2.IN1
+out_det => Selector3.IN3
+out_det => Selector6.IN3
+out_det => Selector5.IN2
+out_det => Selector2.IN2
+out_cnt_8 => ns.load.DATAB
+out_cnt_8 => Selector3.IN1
+out_downcnt => Selector0.IN3
+out_downcnt => Selector7.IN2
+out_downcnt => Selector4.IN2
+ready <= ready.DB_MAX_OUTPUT_PORT_TYPE
+en_det <= Selector5.DB_MAX_OUTPUT_PORT_TYPE
+en_cnt_8 <= Selector6.DB_MAX_OUTPUT_PORT_TYPE
+set_8 <= set_8.DB_MAX_OUTPUT_PORT_TYPE
+en_downcnt <= Selector7.DB_MAX_OUTPUT_PORT_TYPE
+ld_down <= ld_down.DB_MAX_OUTPUT_PORT_TYPE
+
+

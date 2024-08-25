@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "en_det",
+					"strict" : false
+				},
+				{
+					"name" : "en_cnt_8",
+					"strict" : false
+				},
+				{
+					"name" : "set_8",
+					"strict" : false
+				},
+				{
+					"name" : "en_downcnt",
+					"strict" : false
+				},
+				{
+					"name" : "ld_down",
+					"strict" : false
+				},
+				{
+					"name" : "out_det",
+					"strict" : false
+				},
+				{
+					"name" : "out_downcnt",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "out_cnt_8",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

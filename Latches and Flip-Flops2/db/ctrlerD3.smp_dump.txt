@@ -1,0 +1,9 @@
+
+State Machine - |ctrlerD3|ps
+Name ps.downcount ps.load ps.upcount ps.detect ps.init ps.Idle 
+ps.Idle 0 0 0 0 0 0 
+ps.init 0 0 0 0 1 1 
+ps.detect 0 0 0 1 0 1 
+ps.upcount 0 0 1 0 0 1 
+ps.load 0 1 0 0 0 1 
+ps.downcount 1 0 0 0 0 1 
