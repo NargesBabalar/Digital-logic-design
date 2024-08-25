@@ -1,0 +1,249 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "enc",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Woutput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[0]",
+					"strict" : false
+				},
+				{
+					"name" : "init_t",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "ldt",
+					"strict" : false
+				},
+				{
+					"name" : "addci",
+					"strict" : false
+				},
+				{
+					"name" : "initr",
+					"strict" : false
+				},
+				{
+					"name" : "ldr",
+					"strict" : false
+				},
+				{
+					"name" : "sel",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ldx",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[13]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[14]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[12]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[11]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[9]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[10]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[8]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[7]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[6]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[5]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[4]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[3]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[2]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[1]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[0]",
+					"strict" : false
+				},
+				{
+					"name" : "initco",
+					"strict" : false
+				},
+				{
+					"name" : "enco",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

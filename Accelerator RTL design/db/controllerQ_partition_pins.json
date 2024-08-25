@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "ldx",
+					"strict" : false
+				},
+				{
+					"name" : "sel",
+					"strict" : false
+				},
+				{
+					"name" : "enco",
+					"strict" : false
+				},
+				{
+					"name" : "initco",
+					"strict" : false
+				},
+				{
+					"name" : "initt",
+					"strict" : false
+				},
+				{
+					"name" : "ldt",
+					"strict" : false
+				},
+				{
+					"name" : "initr",
+					"strict" : false
+				},
+				{
+					"name" : "ldr",
+					"strict" : false
+				},
+				{
+					"name" : "addci",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "encom",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

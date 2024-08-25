@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Wout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ybus[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[15]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[13]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[14]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[12]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[11]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[9]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[10]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[8]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[7]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[6]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[5]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[4]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[3]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[2]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[1]",
+					"strict" : false
+				},
+				{
+					"name" : "xbus[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

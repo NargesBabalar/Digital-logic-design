@@ -1,0 +1,247 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ASUS/OneDrive/Desktop/Computerassignment5
+vcontroller
+Z0 !s110 1704859791
+!i10b 1
+!s100 E@O5EcST>:Z2nbVB4;T?E1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM`VjQ5eT0BTL=]h]3z=JY3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ASUS/OneDrive/Desktop/CA6
+w1704855689
+8C:/Users/ASUS/OneDrive/Desktop/CA6/controller.v
+FC:/Users/ASUS/OneDrive/Desktop/CA6/controller.v
+!i122 109
+L0 2 26
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1704859791.000000
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/controller.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vcontrollerQ
+Z8 !s110 1704859792
+!i10b 1
+!s100 ?gcT1d>J_72a3YWISfXAY2
+R1
+IGmRnV0mKamfC]M1<jST]?1
+R2
+R3
+w1704858761
+8C:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo
+FC:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo
+!i122 113
+L0 32 734
+R4
+r1
+!s85 0
+31
+Z9 !s108 1704859792.000000
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo|
+!i113 1
+R6
+R7
+ncontroller@q
+vCosTB
+R8
+!i10b 1
+!s100 X@`e8ca4[807[I5:5hPRz1
+R1
+Id]?:T@GlRGhK_:>:2ACWB2
+R2
+R3
+w1704859789
+8C:/Users/ASUS/OneDrive/Desktop/CA6/Testbench.v
+FC:/Users/ASUS/OneDrive/Desktop/CA6/Testbench.v
+!i122 112
+L0 2 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/Testbench.v|
+!i113 1
+R6
+R7
+n@cos@t@b
+vdatapathQfinal
+R8
+!i10b 1
+!s100 ;]LSJ3YEaIWh[Ed_3hogn2
+R1
+I7e78`l2kYYA`=4o9WEaY;3
+R2
+R3
+w1704859064
+8C:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo
+FC:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo
+!i122 114
+L0 32 10105
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo|
+!i113 1
+R6
+R7
+ndatapath@qfinal
+vfinalDP
+R8
+!i10b 1
+!s100 X8^><[@`3L@E<SHfFnCoK1
+R1
+IKAWWU1e;ei4Y;4`HI0F7[0
+R2
+R3
+w1704859270
+8C:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo
+FC:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo
+!i122 115
+L0 32 10525
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo|
+!i113 1
+R6
+R7
+nfinal@d@p
+vhard_block
+R8
+!i10b 1
+!s100 lfFgB3VNbH<T^IQQXl[4P0
+R1
+I<C=?@ERBL28fbdRFnDifY0
+R2
+R3
+Z10 w1704858905
+Z11 8C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo
+Z12 FC:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo
+!i122 117
+L0 1239 34
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo|
+!i113 1
+R6
+R7
+vregister
+R0
+!i10b 1
+!s100 SAf6l6R?gVokfnXl_Pk@I0
+R1
+ImDB[3T@>Z@bcZX63F9ZA]3
+R2
+R3
+w1704856127
+8C:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v
+FC:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v
+!i122 110
+L0 2 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v|
+!i113 1
+R6
+R7
+vregisterQ
+R8
+!i10b 1
+!s100 A[2K9_IA]igfhmbIHKQ9g0
+R1
+I61MG_6;>4C28l9VWf?7<Y1
+R2
+R3
+R10
+R11
+R12
+!i122 117
+L0 32 1206
+R4
+r1
+!s85 0
+31
+R9
+Z14 !s107 C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo|
+R13
+!i113 1
+R6
+R7
+nregister@q
+vrom
+R0
+!i10b 1
+!s100 6Xz=<FbGo4@CzP<e`eZZI0
+R1
+IEX[I0gP^4LN0oI[^LD;7U0
+R2
+R3
+w1704826521
+8C:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v
+FC:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v
+!i122 111
+L0 2 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v|
+!i113 1
+R6
+R7
+vRomQ
+R8
+!i10b 1
+!s100 C2bKToB:TP3bJh:L?cK_K2
+R1
+I10D_<<=<TChnP8<KQce:11
+R2
+R3
+w1704826688
+8C:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo
+FC:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo
+!i122 116
+L0 32 665
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo|
+!i113 1
+R6
+R7
+n@rom@q

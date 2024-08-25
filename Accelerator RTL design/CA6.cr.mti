@@ -1,0 +1,62 @@
+C:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/controllerQ.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controllerQ
+-- Compiling module hard_block
+
+Top level modules:
+	controllerQ
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/controller.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/registerQ.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerQ
+-- Compiling module hard_block
+
+Top level modules:
+	registerQ
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/finalDP.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module finalDP
+-- Compiling module hard_block
+
+Top level modules:
+	finalDP
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/datapathQfinal.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapathQfinal
+-- Compiling module hard_block
+
+Top level modules:
+	datapathQfinal
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/RomQ.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RomQ
+-- Compiling module hard_block
+
+Top level modules:
+	RomQ
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/registerM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v {1 {vlog -work work -stats=none C:/Users/ASUS/OneDrive/Desktop/CA6/Rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}}
